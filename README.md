@@ -15,3 +15,5 @@ https://item.jd.com/11983227.html (JD.com)
 https://pan.baidu.com/s/1bGp15G (中国大陆地区的读者建议使用百度网盘)
 
 https://github.com/godfanmiao/DIY_ML_Systems_with_Python_1st_Edition (港澳台，以及海外地区推荐使用Github)
+
+## 加了Python 3的代码版本
